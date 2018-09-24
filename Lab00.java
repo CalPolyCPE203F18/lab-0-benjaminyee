@@ -16,6 +16,7 @@ public class Lab00
       {
           System.out.print(i + " ");
       }
+      System.out.println();
    }
    public static int char_count(String s, char c)
    {
